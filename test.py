@@ -14,7 +14,7 @@ import torchvision.utils as vutils
 from torch.autograd import Variable
 from utils.misc import *
 import pdb
-import DehazeNet  as Net
+# import DehazeNet as Net
 from skimage.measure import compare_ssim
 import cv2
 import torchvision.models as models
@@ -59,9 +59,9 @@ ngf = opt.ngf
 inputChannelSize = opt.inputChannelSize
 outputChannelSize= opt.outputChannelSize
 
-net = Net.dehaze(inputChannelSize, outputChannelSize, ngf)
+
 if opt.net != '':
-  net.load_state_dict(torch.load(opt.net))
+  net = torch.load(opt.net)
 net.cuda()
 
 
