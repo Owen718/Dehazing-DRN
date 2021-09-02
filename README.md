@@ -1,6 +1,6 @@
 # Dehazing-DRN
 
-Datasets: 
+**Datasets:** 
 
 TrainA-TestA
 
@@ -12,7 +12,7 @@ RESIDE
 
 https://sites.google.com/view/reside-dehaze-datasets/
 
-Pre_train model
+**Pre_train model**
 
 RESIDE_Indoor: https://pan.baidu.com/s/1Hjl3pRpOAfN0eHqCgNIXxg  (t6pm) 
 
