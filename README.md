@@ -3,10 +3,13 @@
 1. Datasets: 
 
 (1)TrainA-TestA
+
 https://drive.google.com/drive/folders/1Qv7SIZBVAtb9G1d6iVKu_8rVSsXJdv26?usp=sharing
+
 https://drive.google.com/drive/folders/1hbwYCzoI3R3o2Gj_kfT6GHG7RmYEOA-P?usp=sharing
 
 (2)RESIDE
+
 https://sites.google.com/view/reside-dehaze-datasets/
 
 2. Pre_train model
