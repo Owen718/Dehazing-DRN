@@ -1,18 +1,18 @@
 # Dehazing-DRN
 
-1. Datasets: 
+Datasets: 
 
-(1)TrainA-TestA
+TrainA-TestA
 
 https://drive.google.com/drive/folders/1Qv7SIZBVAtb9G1d6iVKu_8rVSsXJdv26?usp=sharing
 
 https://drive.google.com/drive/folders/1hbwYCzoI3R3o2Gj_kfT6GHG7RmYEOA-P?usp=sharing
 
-(2)RESIDE
+RESIDE
 
 https://sites.google.com/view/reside-dehaze-datasets/
 
-2. Pre_train model
+Pre_train model
 
 RESIDE_Indoor: https://pan.baidu.com/s/1Hjl3pRpOAfN0eHqCgNIXxg 提取码：t6pm 
 
